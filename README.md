@@ -1,5 +1,5 @@
 # HDWNtest
-# The R code: HDWNtest.R contains the R code for running the high-dimensional white noise test of Tsay (2020)
+# The R code: HDWNtest.R contains the R code for running the high-dimensional white noise test of Tsay (2020, Journal of Econometrics)
 # The input includes:
 # (a) xt: a T-by-k data matrix of time series, each column is a time series. Thus, T is the sample size and k is the number of series
 # (b) lag: The number of lags of autocorrelation matrices used in the test (default is 10)
